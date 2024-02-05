@@ -1,0 +1,7 @@
+class GameStatus:
+    IN_PROGRESS = "IN_PROGRESS"
+    CHECK = "CHECK"
+    CHECKMATE = "CHECKMATE"
+    STALEMATE = "STALEMATE"
+    DRAW = "DRAW"
+    RESIGN = "RESIGN"
